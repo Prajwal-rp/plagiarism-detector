@@ -24,7 +24,7 @@ Some of the similarity features that are considered for the feature extraction a
   * Containment Features(extracted using different ngrams)
   * Longest Common Subsequence(extracted using dynamic programming)
   
- #Model Building
+ # Model Building
  * Using Random Forest Classifier to build the model using the extracted features
  * Using Cross Validation to reduce the overfitting of the model on the training data
  * Performing hyperparameter tuning to tune the model for further improvements
