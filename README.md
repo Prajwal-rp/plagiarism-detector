@@ -37,4 +37,4 @@ Some of the similarity features that are considered for the feature extraction a
 - Performing hyperparameter tuning to tune the model for further improvements
 - obtained an accuracy of 94% on the Testing data
 
-The notebook for this project has been attached to this repository
+The notebook for this project has been attached to this repository..
